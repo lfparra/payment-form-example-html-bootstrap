@@ -1,0 +1,13 @@
+body {
+    margin: 0px;
+    padding: 0px 75px 0px;
+    background-color: black;
+    width: 92%;
+    margin: auto;
+}
+
+.form-check {
+    width: 100%;
+}
+
+
